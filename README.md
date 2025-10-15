@@ -93,7 +93,9 @@ Hi there!
 
 ### 📈 GitHub Stats & Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=weiiiiying&theme=radical&no-bg=true&no-frame=true&column=5&titles=Repositories,Experience,Commits,Followers,PullRequest)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=weiiiiying&theme=dracula&no-bg=true&no-frame=true&column=5&title=Repositories,Experience,Commits,Followers,PullRequest" alt="GitHub Trophies" />
+</p>
 
 
 <p align="center">
