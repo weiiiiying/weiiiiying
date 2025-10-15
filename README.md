@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://github.com/khalby786/github-readme-profile-header-generator/raw/main/examples/example-header.png" alt="Header Image" />
+  <img src="https://github.com/weiiiiying/weiiiiying/blob/main/Informal%20pic2.jpg" alt="Header Image" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Wei Ying</h1>
